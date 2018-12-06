@@ -297,3 +297,17 @@ nav h1 a {
     width: 100%;
   }
 } 
+
+p.name{
+  display: inline;
+}
+
+p.date{
+  display: inline;
+  position: absolute;
+  right: 10px;
+}
+
+p.name, p.date, p.rating{
+  font-weight: 600;
+}
