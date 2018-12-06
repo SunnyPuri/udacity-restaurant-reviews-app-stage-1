@@ -311,3 +311,8 @@ p.date{
 p.name, p.date, p.rating{
   font-weight: 600;
 }
+
+.breadcrumb{
+  text-align: unset;
+  height: unset;
+}
